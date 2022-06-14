@@ -38,3 +38,4 @@ C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood\obj\Debug\net5.0\ref
 C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.pdb
 C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.genruntimeconfig.cache
 C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.csproj.CopyComplete
+C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Pages\Restaurants\List.cshtml.g.cs
