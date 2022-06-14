@@ -1,0 +1,12 @@
+C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood.Core\bin\Debug\net5.0\OdeToFood.Core.deps.json
+C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood.Core\bin\Debug\net5.0\OdeToFood.Core.dll
+C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood.Core\bin\Debug\net5.0\ref\OdeToFood.Core.dll
+C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood.Core\bin\Debug\net5.0\OdeToFood.Core.pdb
+C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.csproj.AssemblyReference.cache
+C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.AssemblyInfo.cs
+C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.dll
+C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\ref\OdeToFood.Core.dll
+C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.pdb
