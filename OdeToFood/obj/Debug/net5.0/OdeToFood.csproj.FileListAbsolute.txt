@@ -44,3 +44,4 @@ C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood\bin\Debug\net5.0\Ode
 C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood\bin\Debug\net5.0\OdeToFood.Data.pdb
 C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood\bin\Debug\net5.0\OdeToFood.Core.pdb
 C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Pages\Restaurants\Details.cshtml.g.cs
+C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Pages\Restaurants\NotFound.cshtml.g.cs
