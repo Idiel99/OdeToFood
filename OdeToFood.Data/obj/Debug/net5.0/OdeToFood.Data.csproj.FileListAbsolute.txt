@@ -1,6 +1,5 @@
 C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood.Data\bin\Debug\net5.0\OdeToFood.Data.deps.json
 C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood.Data\bin\Debug\net5.0\OdeToFood.Data.dll
-C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood.Data\bin\Debug\net5.0\ref\OdeToFood.Data.dll
 C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood.Data\bin\Debug\net5.0\OdeToFood.Data.pdb
 C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood.Data\bin\Debug\net5.0\OdeToFood.Core.dll
 C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood.Data\bin\Debug\net5.0\OdeToFood.Core.pdb
@@ -13,3 +12,4 @@ C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood.Data\obj\Debug\net5.
 C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood.Data\obj\Debug\net5.0\OdeToFood.Data.dll
 C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood.Data\obj\Debug\net5.0\ref\OdeToFood.Data.dll
 C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood.Data\obj\Debug\net5.0\OdeToFood.Data.pdb
+C:\Users\idiel\Desktop\Repos\C# Channel\OdeToFood\OdeToFood.Data\obj\Debug\net5.0\refint\OdeToFood.Data.dll

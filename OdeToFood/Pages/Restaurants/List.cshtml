@@ -32,7 +32,16 @@
                     <td>@restaurant.Name</td>
                     <td>@restaurant.Location</td>
                     <td>@restaurant.Cuisine</td>
-                    <td><a class="btn btn-primary" asp-page="./Details" asp-route-restaurantId=@restaurant.Id>Details</a></td>
+                    <td>
+                        <a class="btn btn-primary" 
+                           asp-page="./Details" 
+                           asp-route-restaurantId=@restaurant.Id>Details
+                       </a>
+                        <a class="btn btn-primary" 
+                           asp-page="./Edit" 
+                           asp-route-restaurantId=@restaurant.Id>Edit
+                       </a>
+                     </td>
                 </tr>
             }
 </table>

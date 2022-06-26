@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "FB7Cy6y/T1nmFAh9TgZI+SkERBCwMGmDkJvHLm0J5Xf1BpCbPsOO5fMq14L1bEYis1dEkjZ3IaUS07Gw6TsKCA==",
+  "dgSpecHash": "1wKlcFiy7zIqjklHBk02qf68Z33uERDp30FlMr4PSfryNvK2SZTAj1u17RBwOQMkvxEsjNbeNEUsjLaPWe8yPA==",
   "success": true,
   "projectFilePath": "C:\\Users\\idiel\\Desktop\\Repos\\C# Channel\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\idiel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\idiel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\idiel\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
