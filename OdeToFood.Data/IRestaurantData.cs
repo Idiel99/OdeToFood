@@ -47,14 +47,19 @@ namespace OdeToFood.Data
             var restaurant = restaurants.SingleOrDefault( r => r.Id == updatedrestaurant.Id);
             if (restaurant != null)
             {
-                if (updatedrestaurant.Name == null || updatedrestaurant.Name.Length < 1 || updatedrestaurant.Name.Length > 80) 
+                   /***************
+                    * Manual Check
+                    * *************/
+                /*if (updatedrestaurant.Name == null || updatedrestaurant.Name.Length < 1 || updatedrestaurant.Name.Length > 80) 
                 {
                     updatedrestaurant.Name = "Default";
                 }
                 if(updatedrestaurant.Location == null || updatedrestaurant.Location.Length < 1 || updatedrestaurant.Location.Length > 255 )
                 {
                     updatedrestaurant.Location = "Default";
-                }
+                }*/
+
+
                 restaurant.Name     = updatedrestaurant.Name;
                 restaurant.Location = updatedrestaurant.Location;
                 restaurant.Cuisine  = updatedrestaurant.Cuisine;

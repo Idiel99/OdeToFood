@@ -9,8 +9,8 @@ namespace OdeToFood.Pages.Restaurants
 {
     public class EditModel : PageModel
     {
-        private readonly IRestaurantData restaurantData;
-        private readonly IHtmlHelper htmlHelper;
+        private readonly IRestaurantData _restaurantData;
+        private readonly IHtmlHelper _htmlHelper;
         [BindProperty]
         public Restaurant Restaurant { get; set; }
         public IRestaurantData RestaurantData { get; set; }
@@ -18,14 +18,14 @@ namespace OdeToFood.Pages.Restaurants
 
         public EditModel(IRestaurantData restaurantData, IHtmlHelper htmlHelper)
         {
-            this.restaurantData = restaurantData;
-            this.htmlHelper = htmlHelper;
+            this._restaurantData = restaurantData;
+            this._htmlHelper = htmlHelper;
         }
        
         public IActionResult OnGet(int restaurantId)
         {
-            Restaurant = restaurantData.GetRestaurantById(restaurantId);
-            Cuisines = htmlHelper.GetEnumSelectList<CuisineType>();
+            Restaurant = _restaurantData.GetRestaurantById(restaurantId);
+            Cuisines = _htmlHelper.GetEnumSelectList<CuisineType>();
             if (Restaurant == null)
             {
                 return RedirectToPage("./NotFound");
@@ -36,9 +36,14 @@ namespace OdeToFood.Pages.Restaurants
 
         public IActionResult OnPost()
         {
-            Cuisines = htmlHelper.GetEnumSelectList<CuisineType>();
-            restaurantData.Update(Restaurant); //Restaurant = restaurantData.Update(Restaurant);
-            restaurantData.Commit();
+            if (ModelState.IsValid)
+            {
+                _restaurantData.Update(Restaurant); //Restaurant = restaurantData.Update(Restaurant); Equivalent
+                _restaurantData.Commit();
+                return RedirectToPage("./Details", new { restaurantId = Restaurant.Id }); //Post-Get-Redirect Pattern
+            }
+
+            Cuisines = _htmlHelper.GetEnumSelectList<CuisineType>();
             return Page();
         }
 
